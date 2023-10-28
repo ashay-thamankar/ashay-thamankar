@@ -32,9 +32,9 @@ Explore my projects across different domains:
 - 📊 **SQL Data Manipulation**: Explore projects demonstrating my SQL skills in data management. [View Repository](https://github.com/ashay-thamankar/SQL_Projects)
 - 📊 **Python projects**: Explore projects that showcase my ability to turn raw data into meaningful narratives. [View Repository](https://github.com/ashay-thamankar/python_projects)
 - 📊 **Power BI Visualizations**: Experience insightful visualizations I've created using Power BI. [View Repository](https://github.com/ashay-thamankar/power_bi_projects)
+- 📈 **Statistics for Data Science**: See how I apply statistical knowledge to gain insights from data.[View Repository](https://github.com/ashay-thamankar/Statistical_Insights)
 - 📗 **Google Sheets Expertise**: Learn how I use Google Sheets for data analysis and reporting.
 - 📊 **Microsoft Excel Mastery**: Witness my prowess in Microsoft Excel for data organization and analysis.
-- 📈 **Statistics for Data Science**: See how I apply statistical knowledge to gain insights from data.
 - 📱 **Flutter App Development**: Get a glimpse of the mobile apps I'm developing with Flutter. [View Repository](https://github.com/ashay-thamankar/flutter_projects)
 - 📒 **Anecdotes**: Dive into anecdotes that reflect my data analysis journey. [View Repository](https://github.com/ashay-thamankar/anecdotes)
 
