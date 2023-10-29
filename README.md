@@ -30,7 +30,7 @@ Explore my projects across different domains:
 
 - 📈 **Python Data Analysis**: Discover projects that leverage Python for in-depth data analysis. [View Repository](https://github.com/ashay-thamankar/data_analysis)
 - 📊 **SQL Data Manipulation**: Explore projects demonstrating my SQL skills in data management. [View Repository](https://github.com/ashay-thamankar/SQL_Projects)
-- 📊 **Python projects**: Explore projects that showcase my ability to turn raw data into meaningful narratives. [View Repository](https://github.com/ashay-thamankar/python_projects)
+- 📊 **Python projects**: Explore projects that showcase my proficiency in various Python applications. [View Repository](https://github.com/ashay-thamankar/python_projects)
 - 📊 **Power BI Visualizations**: Experience insightful visualizations I've created using Power BI. [View Repository](https://github.com/ashay-thamankar/power_bi_projects)
 - 📈 **Statistics for Data Science**: See how I apply statistical knowledge to gain insights from data.[View Repository](https://github.com/ashay-thamankar/Statistical_Insights)
 - 📗 **Google Sheets Expertise**: Learn how I use Google Sheets for data analysis and reporting.
