@@ -22,7 +22,7 @@ I am U Ashay Thamankar. With a background in Electronics and Communication Engin
 
 Explore my projects across different domains:
 
-- 🤖 **Machine Learning & Deep Learning Projects**: Explore my projects in the field of machine learning and deep learning. [View Repository](https://github.com/ashay-thamankar/machine-learning-and-deep-learning/tree/main)
+- 🤖 **Machine Learning & Deep Learning Projects**: Explore my projects in the field of machine learning and deep learning. [View Repository](https://github.com/ashay-thamankar/deep-learning-and-machine-learning)
 - 📈 **Python Data Analysis**: Discover projects that leverage Python for in-depth data analysis. [View Repository](https://github.com/ashay-thamankar/data_analysis)
 - 📊 **SQL Data Manipulation**: Explore projects demonstrating my SQL skills in data management. [View Repository](https://github.com/ashay-thamankar/SQL_Projects)
 - 📊 **Python projects**: Explore projects that showcase my proficiency in various Python applications. [View Repository](https://github.com/ashay-thamankar/python_projects)
