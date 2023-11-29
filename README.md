@@ -1,4 +1,4 @@
-# Welcome to My Data Analysis and Coding Projects! 👋
+# Welcome to My Data Analysis, Coding Projects, and Madhubani Paintings Repository! 👋
 
 ## About Me 🚀
 I am U Ashay Thamankar. With a background in Electronics and Communication Engineering, I've cultivated a diverse skill set, ranging from Python data analysis to SQL data manipulation, and even venturing into Flutter app development. My data analysis journey extends to Python libraries, and I'm constantly exploring the world of machine learning and deep learning.
@@ -14,7 +14,6 @@ I am U Ashay Thamankar. With a background in Electronics and Communication Engin
 - 💼 **SQL**: Skilled in SQL for data manipulation and database management.
 - 📊 **Power BI**: Experienced in creating insightful visualizations with Power BI.
 - 📗 **Google Sheets**: Proficient in using Google Sheets for data analysis and reporting.
-- 📊 **Microsoft Excel**: Strong skills in Microsoft Excel for data organization and analysis.
 - 📈 **Statistics for Data Science**: Solid understanding of statistics for insightful data analysis.
 - 📱 **Flutter**: Exploring the world of mobile app development with Flutter.
 
@@ -28,10 +27,13 @@ Explore my projects across different domains:
 - 📊 **Python projects**: Explore projects that showcase my proficiency in various Python applications. [View Repository](https://github.com/ashay-thamankar/python_projects)
 - 📊 **Power BI Visualizations**: Experience insightful visualizations I've created using Power BI. [View Repository](https://github.com/ashay-thamankar/power_bi_projects)
 - 📈 **Statistics for Data Science**: See how I apply statistical knowledge to gain insights from data. [View Repository](https://github.com/ashay-thamankar/Statistical_Insights)
-- 📗 **Google Sheets Expertise**: Learn how I use Google Sheets for data analysis and reporting.
-- 📊 **Microsoft Excel Mastery**: Witness my prowess in Microsoft Excel for data organization and analysis.
+- 📗 **Google Sheets Expertise**: Learn how I use Google Sheets for data analysis and reporting. [View Repository](https://docs.google.com/spreadsheets/d/1AZQMnJ7A2EB54UNaRIPbqI5-apUhbgl_zUYyPt21G30/edit?usp=sharing)
 - 📱 **Flutter App Development**: Get a glimpse of the mobile apps I'm developing with Flutter. [View Repository](https://github.com/ashay-thamankar/flutter_projects)
 - 📒 **Anecdotes**: Dive into anecdotes that reflect my data analysis journey. [View Repository](https://github.com/ashay-thamankar/anecdotes)
+
+## Madhubani Paintings Repository 🎨
+
+Explore the vibrant world of Madhubani paintings! This repository serves as a digital archive, preserving the rich tradition of Indian art. [View Repository](https://github.com/ashay-thamankar/Madhubani-Painting/tree/main#madhubani-paintings-repository)
 
 Feel free to explore my projects and get in touch for discussions on data analysis, coding, or machine learning and deep learning! 💬
 
