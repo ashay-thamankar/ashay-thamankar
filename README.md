@@ -27,7 +27,7 @@ Explore my projects across different domains:
 - 📊 **Python projects**: Explore projects that showcase my proficiency in various Python applications. [View Repository](https://github.com/ashay-thamankar/python_projects#python-projects-)
 - 📊 **Power BI Visualizations**: Experience insightful visualizations I've created using Power BI. [View Repository](https://github.com/ashay-thamankar/power_bi_projects#power-bi-projects-)
 - 📈 **Statistics for Data Science**: See how I apply statistical knowledge to gain insights from data. [View Repository](https://github.com/ashay-thamankar/Statistical_Insights)
-- 📗 **Google Sheets Expertise**: Learn how I use Google Sheets for data analysis and reporting. [View Repository](https://docs.google.com/spreadsheets/d/1AZQMnJ7A2EB54UNaRIPbqI5-apUhbgl_zUYyPt21G30/edit?usp=sharing)
+- 📗 **Google Sheets Expertise**: Learn how I use Google Sheets for for continuous self-assessment, adopting a data-driven approach to exam readiness. [View Repository](https://docs.google.com/spreadsheets/d/1AZQMnJ7A2EB54UNaRIPbqI5-apUhbgl_zUYyPt21G30/edit?usp=sharing)
 - 📱 **Flutter App Development**: Get a glimpse of the mobile apps I'm developing with Flutter. [View Repository](https://github.com/ashay-thamankar/flutter_projects)
 - 📒 **Anecdotes**: Dive into anecdotes that reflect my data analysis journey. [View Repository](https://github.com/ashay-thamankar/anecdotes)
 - 🌱 **KrishiMitra Business Model**: Upgrading agriculture through smart farming solutions. [View Repository]( https://github.com/ashay-thamankar/Business-Model#business-model )
