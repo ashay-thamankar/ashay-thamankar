@@ -30,6 +30,7 @@ Explore my projects across different domains:
 - 📗 **Google Sheets Expertise**: Learn how I use Google Sheets for data analysis and reporting. [View Repository](https://docs.google.com/spreadsheets/d/1AZQMnJ7A2EB54UNaRIPbqI5-apUhbgl_zUYyPt21G30/edit?usp=sharing)
 - 📱 **Flutter App Development**: Get a glimpse of the mobile apps I'm developing with Flutter. [View Repository](https://github.com/ashay-thamankar/flutter_projects)
 - 📒 **Anecdotes**: Dive into anecdotes that reflect my data analysis journey. [View Repository](https://github.com/ashay-thamankar/anecdotes)
+- 🌱 **KrishiMitra Business Model**: Upgrading agriculture through smart farming solutions. [View Repository]( https://github.com/ashay-thamankar/Business-Model#business-model )
 
 ## Madhubani Paintings Repository 🎨
 
