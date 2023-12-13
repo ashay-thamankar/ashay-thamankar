@@ -36,6 +36,10 @@ Explore my projects across different domains:
 
 Explore the vibrant world of Madhubani paintings! This repository serves as a digital archive, preserving the rich tradition of Indian art. [View Repository](https://github.com/ashay-thamankar/Madhubani-Painting/tree/main#madhubani-paintings-repository)
 
+## Yakshagana Repository 🎭
+
+Explore the traditional art of Yakshagana, capturing its essence and preserving cultural heritage. [View Repository](https://github.com/ashay-thamankar/Yakshagana-Gallary/blob/main/README.md#yakshagana-repository-)
+
 Feel free to explore my projects and get in touch for discussions on data analysis, coding, or machine learning and deep learning! 💬
 
 🌟 Explore my projects, provide feedback, or connect for data analysis and coding discussions. Your collaboration and insights are welcome. Enjoy your visit!
