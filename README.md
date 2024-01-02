@@ -31,6 +31,8 @@ Explore my projects across different domains:
 - 📱 **Flutter App Development**: Get a glimpse of the mobile apps I'm developing with Flutter. [View Repository](https://github.com/ashay-thamankar/flutter_projects)
 - 📒 **Anecdotes**: Dive into anecdotes that reflect my data analysis journey. [View Repository](https://github.com/ashay-thamankar/anecdotes)
 - 🌱 **KrishiMitra Business Model**: Upgrading agriculture through smart farming solutions. [View Repository]( https://github.com/ashay-thamankar/Business-Model#business-model )
+- 🚀 **End-to-End Machine Learning Project**: Explore machine learning projects, including data analysis, model development, and deployment. [View Repo](https://github.com/ashay-thamankar/End-to-End-Machine-Learning-Projects/blob/main/README.md#end-to-end-machine-learning-project-)
+
 
 ## Madhubani Paintings Repository 🎨
 
