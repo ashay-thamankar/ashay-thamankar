@@ -1,4 +1,4 @@
-# Welcome to My Data Analysis, Coding Projects, and Madhubani Paintings Repository! 👋
+# Welcome to My Data Science, Machine Learning, Coding Projects, and Madhubani Paintings Repository! 👋
 
 ## About Me 🚀
 I am U Ashay Thamankar. With a background in Electronics and Communication Engineering, I've cultivated a diverse skill set, ranging from Python data analysis to SQL data manipulation, and even venturing into Flutter app development. My data analysis journey extends to Python libraries, and I'm constantly exploring the world of machine learning and deep learning.
