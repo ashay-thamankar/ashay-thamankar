@@ -45,3 +45,6 @@ Explore the traditional art of Yakshagana, capturing its essence and preserving 
 Feel free to explore my projects and get in touch for discussions on data analysis, coding, or machine learning and deep learning! 💬
 
 🌟 Explore my projects, provide feedback, or connect for data analysis and coding discussions. Your collaboration and insights are welcome. Enjoy your visit!
+
+![Profile views](https://gpvc.arturio.dev/ashay-thamankar)
+
