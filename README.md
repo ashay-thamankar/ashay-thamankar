@@ -52,8 +52,7 @@ Feel free to explore my projects and get in touch for discussions on data analys
 
 If you find my work helpful and want to show appreciation, consider buying me a coffee!
 
-<a https://www.buymeacoffee.com/ashaythamankar target="_blank"></a>
+<a href="https://www.buymeacoffee.com/ashaythamankar" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?username=ashaythamankar&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee"></a>
 
 Your support means a lot and helps me keep creating useful content. Thank you! 🚀
-
 
