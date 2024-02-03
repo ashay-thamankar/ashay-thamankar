@@ -48,3 +48,12 @@ Feel free to explore my projects and get in touch for discussions on data analys
 
 ![Profile views](https://gpvc.arturio.dev/ashay-thamankar)
 
+## ☕ Support Me
+
+If you find my work helpful and want to show appreciation, consider buying me a coffee!
+
+<a https://www.buymeacoffee.com/ashaythamankar target="_blank"></a>
+
+Your support means a lot and helps me keep creating useful content. Thank you! 🚀
+
+
