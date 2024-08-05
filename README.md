@@ -13,7 +13,7 @@ I am U Ashay Thamankar. As a data scientist by profession, I excel at deriving i
 ## Skills 🛠️
 
 - 🤖 **Machine Learning & Deep Learning**: Specialized in developing models for predictive analysis and pattern recognition.
-- 📈 Time Series Analysis & Forecasting: Good in analyzing time series data and creating accurate forecasting models.
+- 📈 **Time Series Analysis & Forecasting**: Good in analyzing time series data and creating accurate forecasting models.
 - 🐍 **Python**: Proficient in Python data analysis, scripting, and machine learning.
 - 💼 **SQL**: Skilled in SQL for data manipulation and database management.
 - 📊 **Power BI**: Experienced in creating insightful visualizations with Power BI.
@@ -36,7 +36,7 @@ Explore my projects across different domains:
 - 📒 **Anecdotes**: Dive into anecdotes that reflect my data analysis journey. [View Repository](https://github.com/ashay-thamankar/anecdotes)
 - 🌱 **KrishiMitra Business Model**: Upgrading agriculture through smart farming solutions. [View Repository]( https://github.com/ashay-thamankar/Business-Model#business-model )
 - 🚀 **End-to-End Machine Learning Project**: Explore machine learning projects, including data analysis, model development, and deployment. [View Repo](https://github.com/ashay-thamankar/End-to-End-Machine-Learning-Projects/blob/main/README.md#end-to-end-machine-learning-project-)
-- 💰 Gold Price Analysis and Forecasting: Analyze and forecast gold prices using machine learning models. [View Repo](https://github.com/ashay-thamankar/gold_price_analysis_and_forecasting#gold-price-analysis-and-forecasting)
+- 💰 **Gold Price Analysis and Forecasting**: Analyze and forecast gold prices using machine learning models. [View Repo](https://github.com/ashay-thamankar/gold_price_analysis_and_forecasting#gold-price-analysis-and-forecasting)
 
 
 ## Madhubani Paintings Repository 🎨
