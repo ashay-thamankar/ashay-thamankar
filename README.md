@@ -1,15 +1,19 @@
 # Welcome to My Data Science, Machine Learning, Coding Projects, and Madhubani Paintings Repository! 👋
 
 ## About Me 🚀
-I am U Ashay Thamankar. With a background in Electronics and Communication Engineering, I've cultivated a diverse skill set, ranging from Python data analysis to SQL data manipulation, and even venturing into Flutter app development. My data analysis journey extends to Python libraries, and I'm constantly exploring the world of machine learning and deep learning.
 
-💻 I'm passionate about transforming data into actionable insights. From Python data analysis to SQL data manipulation, and even creating Flutter apps, I'm excited to showcase my work.
+I am U Ashay Thamankar. As a data scientist by profession, I excel at deriving insights using SQL, Power BI, statistics, and time series analysis and forecasting. I'm passionate about machine learning and deep learning projects and am currently learning Generative AI (GenAI). I also have a diverse skill set in Python data analysis, SQL data manipulation, and Flutter app development.
 
-📈 With a solid understanding of statistics for data science and a flair for storytelling through data, I've also included some interesting anecdotes. My journey in data analysis isn't just about numbers; it's about crafting narratives that unfold through analytics.
+💻 I thrive on transforming data into actionable insights and enjoy showcasing my work through Python, SQL, and Flutter apps.
+
+🎨 Beyond coding, I am skilled in Madhubani and Warli painting, a passionate writer, a Yakshagana dancer, and am learning the Maddale instrument. I am a lifetime learner, always eager to explore new domains and skills.
+
+📈 With a strong understanding of statistics for data science and a talent for storytelling through data, my journey in data analysis is about more than just numbers; it's about crafting narratives that unfold through analytics.
 
 ## Skills 🛠️
 
 - 🤖 **Machine Learning & Deep Learning**: Specialized in developing models for predictive analysis and pattern recognition.
+- 📈 Time Series Analysis & Forecasting: Good in analyzing time series data and creating accurate forecasting models.
 - 🐍 **Python**: Proficient in Python data analysis, scripting, and machine learning.
 - 💼 **SQL**: Skilled in SQL for data manipulation and database management.
 - 📊 **Power BI**: Experienced in creating insightful visualizations with Power BI.
@@ -32,6 +36,7 @@ Explore my projects across different domains:
 - 📒 **Anecdotes**: Dive into anecdotes that reflect my data analysis journey. [View Repository](https://github.com/ashay-thamankar/anecdotes)
 - 🌱 **KrishiMitra Business Model**: Upgrading agriculture through smart farming solutions. [View Repository]( https://github.com/ashay-thamankar/Business-Model#business-model )
 - 🚀 **End-to-End Machine Learning Project**: Explore machine learning projects, including data analysis, model development, and deployment. [View Repo](https://github.com/ashay-thamankar/End-to-End-Machine-Learning-Projects/blob/main/README.md#end-to-end-machine-learning-project-)
+- 💰 Gold Price Analysis and Forecasting: Analyze and forecast gold prices using machine learning models. [View Repo](https://github.com/ashay-thamankar/gold_price_analysis_and_forecasting#gold-price-analysis-and-forecasting)
 
 
 ## Madhubani Paintings Repository 🎨
@@ -45,8 +50,6 @@ Explore the traditional art of Yakshagana, capturing its essence and preserving 
 Feel free to explore my projects and get in touch for discussions on data analysis, coding, or machine learning and deep learning! 💬
 
 🌟 Explore my projects, provide feedback, or connect for data analysis and coding discussions. Your collaboration and insights are welcome. Enjoy your visit!
-
-![Profile views](https://gpvc.arturio.dev/ashay-thamankar)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashay-thamankar&label=Profile%20views&color=0e75b6&style=flat" alt="ashay-thamankar" /> </p>
 
