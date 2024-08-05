@@ -48,6 +48,8 @@ Feel free to explore my projects and get in touch for discussions on data analys
 
 ![Profile views](https://gpvc.arturio.dev/ashay-thamankar)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashay-thamankar&label=Profile%20views&color=0e75b6&style=flat" alt="ashay-thamankar" /> </p>
+
 ## ☕ Support Me
 
 If you find my work helpful and want to show appreciation, consider buying me a coffee!
