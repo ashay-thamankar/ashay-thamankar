@@ -1,4 +1,4 @@
-# Welcome to My Data Science, Machine Learning, Coding Projects, and Madhubani Paintings Repository! 👋
+# Welcome to My Data Science, Machine Learning, Coding Projects, and Madhubani Paintings, Yakshagana Folk Dance Repository! 👋
 
 ## About Me 🚀
 
@@ -43,7 +43,7 @@ Explore my projects across different domains:
 
 Explore the vibrant world of Madhubani paintings! This repository serves as a digital archive, preserving the rich tradition of Indian art. [View Repository](https://github.com/ashay-thamankar/Madhubani-Painting/tree/main#madhubani-paintings-repository)
 
-## Yakshagana Repository 🎭
+## Yakshagana Folk Dance Repository 🎭
 
 Explore the traditional art of Yakshagana, capturing its essence and preserving cultural heritage. [View Repository](https://github.com/ashay-thamankar/Yakshagana-Gallary/blob/main/README.md#yakshagana-repository-)
 
