@@ -1,8 +1,8 @@
-# Welcome to My Data Science, Machine Learning, Coding Projects, and Madhubani Paintings, Yakshagana Folk Dance Repository! 👋
+# Welcome to My Data Science, Generative AI, Coding Projects, Madhubani Paintings, Yakshagana Folk Dance Repository! 👋
 
 ## About Me 🚀
 
-I am U Ashay Thamankar. As a data scientist by profession, I excel at deriving insights using SQL, Power BI, statistics, and time series analysis and forecasting. I'm passionate about machine learning and deep learning projects and am currently learning Generative AI (GenAI). I also have a diverse skill set in Python data analysis, SQL data manipulation, and Flutter app development.
+I am U Ashay Thamankar, a data scientist by profession. I specialize in deriving insights using SQL, Power BI, statistics, and time series analysis and forecasting. I'm passionate about machine learning, deep learning, and Generative AI (GenAI) projects. Additionally, I possess a diverse skill set in Python data analysis, SQL data manipulation, and Problem solving.
 
 💻 I thrive on transforming data into actionable insights and enjoy showcasing my work through Python, SQL, and Flutter apps.
 
@@ -11,7 +11,7 @@ I am U Ashay Thamankar. As a data scientist by profession, I excel at deriving i
 📈 With a strong understanding of statistics for data science and a talent for storytelling through data, my journey in data analysis is about more than just numbers; it's about crafting narratives that unfold through analytics.
 
 ## Skills 🛠️
-
+- 🌟 **Generative AI (GenAI)**: Learning and building projects with GenAI.
 - 🤖 **Machine Learning & Deep Learning**: Specialized in developing models for predictive analysis and pattern recognition.
 - 📈 **Time Series Analysis & Forecasting**: Good in analyzing time series data and creating accurate forecasting models.
 - 🐍 **Python**: Proficient in Python data analysis, scripting, and machine learning.
@@ -25,6 +25,7 @@ I am U Ashay Thamankar. As a data scientist by profession, I excel at deriving i
 
 Explore my projects across different domains:
 
+- 🌟 GenAI Projects: Explore a suite of Generative AI-based projects. [View Repository](https://github.com/ashay-thamankar/GenAI-Projects#-genai-projects-hub-)
 - 🤖 **Machine Learning & Deep Learning Projects**: Explore my projects in the field of machine learning and deep learning. [View Repository](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/tree/main#machine-learning-and-deep-learning-projects)
 - 📈 **Python Data Analysis**: Discover projects that leverage Python for in-depth data analysis. [View Repository](https://github.com/ashay-thamankar/data_analysis/tree/main#-data-analysis-projects)
 - 📊 **SQL Data Manipulation**: Explore projects demonstrating my SQL skills in data management. [View Repository](https://github.com/ashay-thamankar/SQL_Projects)
