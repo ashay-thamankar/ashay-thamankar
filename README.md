@@ -25,7 +25,7 @@ I am U Ashay Thamankar, a data scientist by profession. I specialize in deriving
 
 Explore my projects across different domains:
 
-- 🌟 GenAI Projects: Explore a suite of Generative AI-based projects. [View Repository](https://github.com/ashay-thamankar/GenAI-Projects#-genai-projects-hub-)
+- 🌟 **GenAI Projects**: Explore a suite of Generative AI-based projects. [View Repository](https://github.com/ashay-thamankar/GenAI-Projects#-genai-projects-hub-)
 - 🤖 **Machine Learning & Deep Learning Projects**: Explore my projects in the field of machine learning and deep learning. [View Repository](https://github.com/ashay-thamankar/deep-learning-and-machine-learning/tree/main#machine-learning-and-deep-learning-projects)
 - 📈 **Python Data Analysis**: Discover projects that leverage Python for in-depth data analysis. [View Repository](https://github.com/ashay-thamankar/data_analysis/tree/main#-data-analysis-projects)
 - 📊 **SQL Data Manipulation**: Explore projects demonstrating my SQL skills in data management. [View Repository](https://github.com/ashay-thamankar/SQL_Projects)
