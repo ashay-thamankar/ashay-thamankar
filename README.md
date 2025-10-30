@@ -11,14 +11,14 @@ Beyond data science, I’m deeply passionate about Madhubani painting, Yakshagan
 
 ## Tech Stack 🛠️
 
-🔹 **Time Series Forecasting** – ARIMA, SARIMA, Prophet, TBATS, Theta, ETS, Croston
-🔹 **Machine Learning & Deep Learning** – XGBoost, Random Forest, RNN, LSTM, Transformers
-🔹 **NLP & Model Fine-tuning** – LoRA, QLoRA, Encoder–Decoder Models
-🔹 **Data Analysis & Automation** – Python, Pandas, NumPy, Excel, MySQL, SQL, Selenium
-🔹 **Data Visualization** – Power BI, Seaborn, Plotly, Matplotlib
-🔹 **MLOps & Deployment** – Azure ML, Azure Data Factory, Docker, GitHub, Amazon EC2
-🔹 **Generative AI** – LangChain, GenAI Basics, LLM Fine-tuning
-🔹 **Tools** – VS Code, Jupyter, MLflow, Git, Google Sheets
+- **Time Series Forecasting** – ARIMA, SARIMA, Prophet, TBATS, Theta, ETS, Croston
+- **Machine Learning & Deep Learning** – XGBoost, Random Forest, RNN, LSTM, Transformers
+- **NLP & Model Fine-tuning** – LoRA, QLoRA, Encoder–Decoder Models
+- **Data Analysis & Automation** – Python, Pandas, NumPy, Excel, MySQL, SQL, Selenium
+- **Data Visualization** – Power BI, Seaborn, Plotly, Matplotlib
+- **MLOps & Deployment** – Azure ML, Azure Data Factory, Docker, GitHub, Amazon EC2
+- **Generative AI** – LangChain, GenAI Basics, LLM Fine-tuning
+- **Tools** – VS Code, Jupyter, MLflow, Git, Google Sheets
 
 ## My Projects 📗
 
