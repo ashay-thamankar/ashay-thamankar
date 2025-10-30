@@ -1,25 +1,24 @@
-# Welcome to My Data Science, Generative AI, Coding Projects, Madhubani Paintings, Yakshagana Folk Dance Repository! 👋
+# Welcome to My Data Science, Generative AI, and Creative Projects Repository! 👋
 
 ## About Me 🚀
 
-I am U Ashay Thamankar, a data scientist by profession. I specialize in deriving insights using SQL, Power BI, statistics, and time series analysis and forecasting. I'm passionate about machine learning, deep learning, and Generative AI (GenAI) projects. Additionally, I possess a diverse skill set in Python data analysis, SQL data manipulation, and Problem solving.
+I’m U Ashay Thamankar, a Data Scientist passionate about transforming data into actionable insights through forecasting, analytics, and automation.
+I focus on demand forecasting, machine learning, deep learning and Azure-based data pipelines, and I also explore Generative AI, end-to-end ML deployment, and creative coding solutions.
 
-💻 I thrive on transforming data into actionable insights and enjoy showcasing my work through Python, SQL, and Flutter apps.
+Beyond data science, I’m deeply passionate about Madhubani painting, Yakshagana folk dance, and traditional Indian art forms that balance analytical precision with creativity.
 
-🎨 Beyond coding, I am skilled in Madhubani and Warli painting, a passionate writer, a Yakshagana dancer, and am learning the Maddale instrument. I am a lifetime learner, always eager to explore new domains and skills.
+🔗 LinkedIn: [linkedin.com/in/ashaythamankar](https://www.linkedin.com/in/ashaythamankar)
 
-📈 With a strong understanding of statistics for data science and a talent for storytelling through data, my journey in data analysis is about more than just numbers; it's about crafting narratives that unfold through analytics.
+## Tech Stack 🛠️
 
-## Skills 🛠️
-- 🌟 **Generative AI (GenAI)**: Learning and building projects with GenAI.
-- 🤖 **Machine Learning & Deep Learning**: Specialized in developing models for predictive analysis and pattern recognition.
-- 📈 **Time Series Analysis & Forecasting**: Good in analyzing time series data and creating accurate forecasting models.
-- 🐍 **Python**: Proficient in Python data analysis, scripting, and machine learning.
-- 💼 **SQL**: Skilled in SQL for data manipulation and database management.
-- 📊 **Power BI**: Experienced in creating insightful visualizations with Power BI.
-- 📗 **Google Sheets**: Proficient in using Google Sheets for data analysis and reporting.
-- 📈 **Statistics for Data Science**: Solid understanding of statistics for insightful data analysis.
-- 📱 **Flutter**: Exploring the world of mobile app development with Flutter.
+🔹 **Time Series Forecasting** – ARIMA, SARIMA, Prophet, TBATS, Theta, ETS, Croston
+🔹 **Machine Learning & Deep Learning** – XGBoost, Random Forest, RNN, LSTM, Transformers
+🔹 **NLP & Model Fine-tuning** – LoRA, QLoRA, Encoder–Decoder Models
+🔹 **Data Analysis & Automation** – Python, Pandas, NumPy, Excel, MySQL, SQL, Selenium
+🔹 **Data Visualization** – Power BI, Seaborn, Plotly, Matplotlib
+🔹 **MLOps & Deployment** – Azure ML, Azure Data Factory, Docker, GitHub, Amazon EC2
+🔹 **Generative AI** – LangChain, GenAI Basics, LLM Fine-tuning
+🔹 **Tools** – VS Code, Jupyter, MLflow, Git, Google Sheets
 
 ## My Projects 📗
 
