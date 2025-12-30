@@ -8,6 +8,8 @@ I focus on demand forecasting, machine learning, deep learning and Azure-based d
 Beyond data science, I’m deeply passionate about Madhubani painting, Yakshagana folk dance, and traditional Indian art forms that balance analytical precision with creativity.
 
 🔗 LinkedIn: [linkedin.com/in/ashaythamankar](https://www.linkedin.com/in/ashaythamankar)
+🎨 Madhubani Painting: [Madhubani-Painting](https://github.com/ashay-thamankar/Madhubani-Painting/tree/main#madhubani-paintings-repository)
+🕺 Yakshagana Folk Dance: [Yakshagana](https://github.com/ashay-thamankar/Yakshagana-Gallary/blob/main/README.md#yakshagana-repository-)
 
 ## Tech Stack 🛠️
 
