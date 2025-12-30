@@ -1,4 +1,4 @@
-# Welcome to My Data Science, Generative AI, and Creative Projects Repository! 👋
+# Welcome to the Data Science, AI & Art Portfolio 👋
 
 ## About Me 🚀
 
